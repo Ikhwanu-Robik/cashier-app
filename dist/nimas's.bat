@@ -1,0 +1,1 @@
+java -jar GUI_Nimass_Ikhwanu_16.jar
